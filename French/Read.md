@@ -3,27 +3,27 @@
 ## Écoutez
 
 ### 1
-Susana (toc toc) : C'est ouvert?
-Une voix : Oui. Entrez.
-Susana : Bonjour, madame. Nous venons pour l'inscription.
-La secrétaire : Oui. Pour quel cours?
-Thomas : Le cours d'informatique prmière année.
-La secrétaire : Oui. Quel jour? Quelle heure? Avec quel professeur?
-Thomas : Le mardi à neuf heures. Avec monsieur Blanc.
-La secrétaire : Très bien. Comment vous vous appelez?
-Thomas : Thomas HANSEN.
-La secrétaire : Vous épelez, s'il vous plaît?
-Thomas : Oui. H A N S E N. Hansen.
-Susana : Et moi, c'est Susana Ricci. Susana avec un S et Ricci R I C C I.
+Susana (toc toc) : C'est ouvert?  
+Une voix : Oui. Entrez.  
+Susana : Bonjour, madame. Nous venons pour l'inscription.  
+La secrétaire : Oui. Pour quel cours?  
+Thomas : Le cours d'informatique prmière année.  
+La secrétaire : Oui. Quel jour? Quelle heure? Avec quel professeur?  
+Thomas : Le mardi à neuf heures. Avec monsieur Blanc.  
+La secrétaire : Très bien. Comment vous vous appelez?  
+Thomas : Thomas HANSEN.  
+La secrétaire : Vous épelez, s'il vous plaît?  
+Thomas : Oui. H A N S E N. Hansen.  
+Susana : Et moi, c'est Susana Ricci. Susana avec un S et Ricci R I C C I.  
 
 ### 2
-La secrétaire : Bon. Vous avez un téléphone? Un e-mail?
-Susana : Oui. 06 27 41 22 00. Et le mail : sricci@hotmail.com.
-Thomas : Moi, c'est le 06 54 60 55 21. Et le mail, c'est thomas-hansen@yahoo.fr.
-La secrétaire : D'accord.
-Thomas : Madame, s'il vous plaît, le cours est dans quel bâtiment?
-La secrétaire : Dans le bâtiment A, au premier étage. Salle 046. Les cours commencent le 12 octobre.
-Thomas et Susana : Au revoir, madame. Merci. Merci Beaucoup.
+La secrétaire : Bon. Vous avez un téléphone? Un e-mail?  
+Susana : Oui. 06 27 41 22 00. Et le mail : sricci@hotmail.com.  
+Thomas : Moi, c'est le 06 54 60 55 21. Et le mail, c'est thomas-hansen@yahoo.fr.  
+La secrétaire : D'accord.  
+Thomas : Madame, s'il vous plaît, le cours est dans quel bâtiment?  
+La secrétaire : Dans le bâtiment A, au premier étage. Salle 046. Les cours commencent le 12 octobre.  
+Thomas et Susana : Au revoir, madame. Merci. Merci Beaucoup.  
 La secrétaire : De rien. Au revoir.
 
 ### 1
