@@ -1,4 +1,4 @@
-# #Leçon 6 Nous venons pour l'inscription##
+# Leçon 6 Nous venons pour l'inscription
 
 ## Écoutez
 
