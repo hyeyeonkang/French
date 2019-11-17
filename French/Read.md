@@ -26,17 +26,21 @@ La secrétaire : Dans le bâtiment A, au premier étage. Salle 046. Les cours co
 Thomas et Susana : Au revoir, madame. Merci. Merci Beaucoup.  
 La secrétaire : De rien. Au revoir.
 
+Analyse
 ### 1
 Susana (toc toc) : C'est __ouvert__?  
 + ouvert : =open  
--Une voix : Oui. Entrez.  
--Susana : Bonjour, madame. Nous venons pour l'inscription.  
+
+Une voix : Oui. Entrez.  
+Susana : Bonjour, madame. Nous venons pour l'inscription.  
 La secrétaire : Oui. Pour quel cours?  
 + Pour quel cour? = for which lesson?  
 + Pour quels cours? 여러수업일 떄  
+
 Thomas : Le cours d'informatique prmière année. 
 + d'informatique = de l'informatique : d' 필수인지 확인바람  
 + l'année 한 해(여성명사) - __première__ année 1학년  
+
 La secrétaire : Oui. Quel jour? // un jour(남성 명사) - quel  
 Quelle heure? // heure(여성 명사  
 Avec quel professeur?  
@@ -46,10 +50,13 @@ Thomas : Le mardi à neuf heures.
 + le mardi = 화요일 마다  
 + à : ~에  
 + heures : s들어가는거 잊지 말기  
+
 Avec monsieur Blanc.  
 + 성이기 때문에 Blanc 대문자 B로 시작  
+
 La secrétaire : Très bien. Comment vous vous appelez?  
 + s'appeler =\= Épeler  
+
 Thomas : Thomas HANSEN.  
 La secrétaire : Vous épelez, s'il vous plaît?  
 Thomas : Oui. H A N S E N. Hansen.  
@@ -76,7 +83,10 @@ samdi 토요일
 dimanche 일요일
 
 Question-devinette (질문 수수께끼)
-Il
+Il y a une syllabe commune aux sept jours de la semaine? laquelle? Savez-vous pourquoi?  
++semaine : 주 / 일주간,7일간  
+
+
 
 ## 숫자
 20 : vingt  
@@ -105,13 +115,21 @@ Il
 
 ## 동사
 ### Épeler
+
 ### Commencer
+je commence  
+tu commences  
+il/ell commence  
+nous commençons  
+vous commencez  
+ils/elles commenent  
 ### Entrer
 
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjA4MTU0NDEsMTk5OTkyNjA1MSwtOT
-kxODE3ODQ4LC0xNzQ5Mjc3ODEyXX0=
+eyJoaXN0b3J5IjpbMTk5OTkyNjA1MSwtOTkxODE3ODQ4LC0xNz
+Q5Mjc3ODEyXX0=
 -->
