@@ -29,8 +29,8 @@ La secrétaire : De rien. Au revoir.
 ### 1
 Susana (toc toc) : C'est __ouvert__?  
 + ouvert : =open  
-Une voix : Oui. Entrez.  
-Susana : Bonjour, madame. Nous venons pour l'inscription.  
+-Une voix : Oui. Entrez.  
+-Susana : Bonjour, madame. Nous venons pour l'inscription.  
 La secrétaire : Oui. Pour quel cours?  
 + Pour quel cour? = for which lesson?  
 + Pour quels cours? 여러수업일 떄  
