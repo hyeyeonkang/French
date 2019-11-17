@@ -28,7 +28,7 @@ La secrétaire : De rien. Au revoir.
 
 ### 1
 Susana (toc toc) : C'est __ouvert__?  
-+ ouvert : =open  +
++ ouvert : =open  
 Une voix : Oui. Entrez.  
 Susana : Bonjour, madame. Nous venons pour l'inscription.  
 La secrétaire : Oui. Pour quel cours?  
@@ -66,15 +66,42 @@ Thomas et Susana : Au revoir, madame. Merci. Merci Beaucoup.
 La secrétaire : De rien. Au revoir.  
 
 
-## 요일
+## le jours de la semaine 요일
+lundi 월요일  
+mardi  화요일  
+mercredi 수요일  
+jeudi 목요일  
+vendredi 금요일  
+samdi 토요일 
+dimanche 일요일
 
-mardi  
-
+Question-devinette (질문 수수께끼)
+Il
 
 ## 숫자
 20 : vingt  
 21 : vingt et un  
 22 : vingt-deux  
+23 : vingt-trois  
+
+30 : trente  
+31 : trente et un  
+32 : trente-deux  
+33 : trente-trois  
+
+40 : quarante  
+41 : quarante et un
+42 : quarante-deux  
+43 : quarante-trois  
+
+50 : cinquante  
+51 : cinquante et un  
+52 : cinquante-deux  
+53 : cinquante-trois  
+
+60 : soixante  
+
+
 
 ## 동사
 ### Épeler
