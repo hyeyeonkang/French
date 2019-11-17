@@ -28,7 +28,7 @@ La secrétaire : De rien. Au revoir.
 
 ### 1
 Susana (toc toc) : C'est __ouvert__?  
-+ ouvert : =open  
++ ouvert : =open  +
 Une voix : Oui. Entrez.  
 Susana : Bonjour, madame. Nous venons pour l'inscription.  
 La secrétaire : Oui. Pour quel cours?  
