@@ -1,4 +1,4 @@
-# Leçon 6 Nous venons pour l'inscription
+# #Leçon 6 Nous venons pour l'inscription##
 
 ## Écoutez
 
@@ -85,5 +85,5 @@ mardi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDkyNzc4MTJdfQ==
+eyJoaXN0b3J5IjpbLTk5MTgxNzg0OCwtMTc0OTI3NzgxMl19
 -->
