@@ -184,9 +184,40 @@ ils/elles commencent
 
 ### Entrer
 
+## Noms/pronoms
++ une année  
++ un bâtiment  //건물  
+- un cours  
+- un étage    //층  
+- une heure  
+- l'informatique  
+- une inscription  
+- un jour  
+- les jours(de la semaine)  
+- nous  
+- une salle  // 방 
 
 
+### Adjectifs
+- ouvert(e)  
+- premier, première  
+- quel, quelle  
 
+### Verbes
+- c'est + numéro  
+
+### Mot invariable
+- dans // 안으로 
+
+### Pour communiquer
+- entrez!  
+- S'il vous plaît  
+- Bon  
+- Au revoir  
+- Merci  
+- De rien! = you're welcome
+
+### Manière de dire
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE0Mzg3MDU3MDYsMTk5OTkyNjA1MSwtOT
