@@ -4,7 +4,7 @@
 
 ### 1
 Susana (toc toc) : C'est ouvert?  
-Une voix : Oui. Entrez.  
+Une voix : Oui. Entrez. 
 Susana : Bonjour, madame. Nous venons pour l'inscription.  
 La secrétaire : Oui. Pour quel cours?  
 Thomas : Le cours d'informatique prmière année.  
@@ -29,7 +29,7 @@ La secrétaire : De rien. Au revoir.
 ## Analyse
 ### 1
 Susana (toc toc) : C'est __ouvert__?  
-+ ouvert (형용사) =open <-> fermer(원형)
++ ouvert  =open <-> fermer(원형)
 + ouvrir
 j'ouvre / tu ouvres / il/elle ouvre / nous ouvrons / vous ouvrez / ils ouvrent  
 
@@ -44,7 +44,7 @@ Thomas : Le cours d'informatique première année.
 + l'année 한 해(여성명사) - __première__ année 1학년  
 + premier 최초의, 처음의, 첫 번째의, 최초의  
 
-La secrétaire : Oui. Quel jour?                                         //무슨 요일에?  
+La secrétaire : Oui. Quel jour?                                                              //무슨 요일에?  
 + un jour(남성 명사) - quel  
 +jour 1.하루, 날   2.낮, 낮 동안   3.날짜
 
@@ -52,6 +52,7 @@ Quelle heure?                                                           //어느
 + heure(여성 명사) - quelle   
 
 Avec quel professeur?                                                   //어느 선생님과 함께?
+
 
 Thomas : Le mardi à neuf heures.                                        //화요일 아홉시에  
 
@@ -63,7 +64,7 @@ Avec monsieur Blanc.                                                    //blanc 
 + 성이기 때문에 Blanc 대문자 B로 시작  
 
 La secrétaire : Très bien. Comment vous vous appelez?                   //아주 좋아요. 이름은?  
-+ s'appeler =/ Épeler  
++ s'appeler = Épeler  
 
 Thomas : Thomas HANSEN.  
 La secrétaire : Vous épelez, s'il vous plaît?                           //
@@ -188,6 +189,6 @@ ils/elles commencent
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTkyNjA1MSwtOTkxODE3ODQ4LC0xNz
-Q5Mjc3ODEyXX0=
+eyJoaXN0b3J5IjpbLTE0Mzg3MDU3MDYsMTk5OTkyNjA1MSwtOT
+kxODE3ODQ4LC0xNzQ5Mjc3ODEyXX0=
 -->
