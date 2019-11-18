@@ -29,7 +29,7 @@ La secrétaire : De rien. Au revoir.
 ## Analyse
 ### 1
 Susana (toc toc) : C'est __ouvert__?  
-+ ouvert : =open <-> fermer(원형)
++ ouvert (형용사) =open <-> fermer(원형)
 + ouvrir
 j'ouvre / tu ouvres / il/elle ouvre / nous ouvrons / vous ouvrez / ils ouvrent  
 
