@@ -33,14 +33,14 @@ Susana (toc toc) : C'est __ouvert__?
 + ouvrir
 j'ouvre / tu ouvres / il/elle ouvre / nous ouvrons / vous ouvrez / ils ouvrent  
 
-Une voix : Oui. __Entrez.__ 
+Une voix : Oui. __Entrez.__  
 Susana : Bonjour, madame. Nous venons pour l'inscription.                 //등록하러왔습니다  
 La secrétaire : Oui. Pour quel cours?  
 + Pour quel cours? = for which lesson? 어떤 강의를 들을래?  
 + Pour quels cours? 여러수업일 떄  
 
-Thomas : Le cours d'informatique prmière année. 
-+ d'informatique = de l'informatique : d' 필수인지 확인바람  
+Thomas : Le cours d'informatique première année. 
++ d'informatique = de l'informatique : d' 필수인지 확인바람  //정보과학의
 + l'année 한 해(여성명사) - __première__ année 1학년  
 + premier 최초의, 처음의, 첫 번째의, 최초의  
 
@@ -52,7 +52,6 @@ Quelle heure?                                                           //어느
 + heure(여성 명사) - quelle   
 
 Avec quel professeur?                                                   //어느 선생님과 함께?
-
 
 Thomas : Le mardi à neuf heures.                                        //화요일 아홉시에  
 
@@ -189,6 +188,6 @@ ils/elles commencent
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2MDc5MTg5LDE5OTk5MjYwNTEsLTk5MT
-gxNzg0OCwtMTc0OTI3NzgxMl19
+eyJoaXN0b3J5IjpbMTk5OTkyNjA1MSwtOTkxODE3ODQ4LC0xNz
+Q5Mjc3ODEyXX0=
 -->
