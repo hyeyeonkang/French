@@ -111,8 +111,8 @@
 	nous trouvons
 	vous trouvez
 	ils trouvent
+1.발견하다,찾아내다 2.구하다,얻다 3.발견하다,줍다
 
-1.발견하다,찾아내다 2.구하다,얻다 3.발견하다
 ### tourner (à droite, à gauche)
 ### traverser
 
@@ -131,6 +131,6 @@
 - tout droit
 - voilà
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4Mzg5MzczLDgzMzk5NTA4MywxNjMzNz
-A3NzU0XX0=
+eyJoaXN0b3J5IjpbMTI4NzgyOTU1NCw4MzM5OTUwODMsMTYzMz
+cwNzc1NF19
 -->
