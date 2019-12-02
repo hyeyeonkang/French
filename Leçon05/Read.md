@@ -20,10 +20,12 @@
 - Non, je ne pense pas. Allez ! vous êtes jeune.
 - Vous pouvez marcher, c'est bon pour la santé.
 - Hum.. Et après le quai....
-- Marchez tout droit jusqu'à la place de l'
-- 
-- 
+- Marchez tout droit jusqu'à la place de l'Hôtel-de-Ville. Le BHV se trouve de l'autre côté, rue de Rivoli.
+- Au revoir. Merci beaucoup.
+- Je vous en prie.
+
+## Noms/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzMDU2NzI4LDgzMzk5NTA4MywxNjMzNz
-A3NzU0XX0=
+eyJoaXN0b3J5IjpbLTExNTI4NTcwNzEsODMzOTk1MDgzLDE2Mz
+M3MDc3NTRdfQ==
 -->
