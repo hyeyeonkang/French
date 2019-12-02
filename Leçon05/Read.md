@@ -54,9 +54,15 @@
 	nous 	arrivons
 	vous 	arrivez
 	ils 	arrivent
-	1.도착하다, 오다 2.
+	1.도착하다, 오다 2.가까이 가다 3.이르다,도달하다
 ### continuer
-
+	je		continue
+	tu		continues
+	il		continue
+	nous	continuons
+	vous	continuez
+	ils		continuent
+	1.계속하다 2.(말,행동 따위를) 계속하다 3.계속되다
 ### marcher
 ### pouvoir
 ### prendre (à droita/ à gauche)
@@ -79,6 +85,6 @@
 - tout droit
 - voilà
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5NTY0ODE1LDgzMzk5NTA4MywxNjMzNz
-A3NzU0XX0=
+eyJoaXN0b3J5IjpbLTEzNTA5MDYyOSw4MzM5OTUwODMsMTYzMz
+cwNzc1NF19
 -->
