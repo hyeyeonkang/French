@@ -53,8 +53,15 @@
 ### pouvoir
 ### prendre (à droita/ à gauche)
 ### trouver (se)
-tourner (à droite
+### tourner (à droite, à gauche)
+### traverser
+
+## Locution verbale
+- c'est + mot interrogatif
+- c'est + adverbe
+
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzMwMDk3Miw4MzM5OTUwODMsMTYzMz
+eyJoaXN0b3J5IjpbMjA5NDc4ODI5Myw4MzM5OTUwODMsMTYzMz
 cwNzc1NF19
 -->
