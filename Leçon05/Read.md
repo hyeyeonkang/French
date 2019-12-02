@@ -41,8 +41,20 @@
 ## Adjectifs
 - autre
 - bon(ne)
-- 
+- droit(e)
+- gauche
+- jeune
+- perdu(e)
+
+## Verbs
+### arriver
+### continuer
+### marcher
+### pouvoir
+### prendre (à droita/ à gauche)
+### trouver (se)
+tourner (à droite
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjA5NjM5LDgzMzk5NTA4MywxNjMzNz
-A3NzU0XX0=
+eyJoaXN0b3J5IjpbLTgwNzMwMDk3Miw4MzM5OTUwODMsMTYzMz
+cwNzc1NF19
 -->
