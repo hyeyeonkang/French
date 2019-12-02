@@ -162,9 +162,16 @@ c. Le BHV se trouve là
 ## Exercise 5
 Répondez aux questions en utilisant la forme négative.
 a. Vous vivez seul(e) ?
-Non, je
-b. Il parle fran
+Non, je 
+b. Il parle français ?
+Non, il parle corèen.
+c. Elle habite à Paris?
+Non, elle habite à Séoul.
+d. Vous travaillez ? 
+
+
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzMDIyMDk2LDgzMzk5NTA4MywxNjMzNz
-A3NzU0XX0=
+eyJoaXN0b3J5IjpbMTExODQ5OTY4NCw4MzM5OTUwODMsMTYzMz
+cwNzc1NF19
 -->
