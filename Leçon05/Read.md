@@ -24,8 +24,25 @@
 - Au revoir. Merci beaucoup.
 - Je vous en prie.
 
-## Noms/
+## Noms/pronoms
+- un angle
+- un boulevard
+- un côté
+- la droite
+- la gauche
+- une place
+- un plan
+- un pont
+- un quai
+- une rive
+- une rue
+- la santé
+
+## Adjectifs
+- autre
+- bon(ne)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI4NTcwNzEsODMzOTk1MDgzLDE2Mz
-M3MDc3NTRdfQ==
+eyJoaXN0b3J5IjpbLTQwMjA5NjM5LDgzMzk5NTA4MywxNjMzNz
+A3NzU0XX0=
 -->
