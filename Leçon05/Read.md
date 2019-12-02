@@ -148,8 +148,15 @@ e Prendre :
 
 ## Exercise 3
 Choisissez e ou es.
+a. Trouv un autre magasin.
+b. Après le Pont-Neuf, tourn á gauche.
+c. Tu trouv tout au BHV.
+d. Tu tourn à droite. c'est là.
 
+## Exercise 4
+Mettez à la forme négative.
+a. J'
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODk0ODkzNyw4MzM5OTUwODMsMTYzMz
-cwNzc1NF19
+eyJoaXN0b3J5IjpbLTIwOTc1MzcxLDgzMzk5NTA4MywxNjMzNz
+A3NzU0XX0=
 -->
