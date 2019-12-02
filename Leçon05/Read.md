@@ -84,7 +84,17 @@
 	1.할 수 있다 2.해도 좋다 3.일 수 있다,일지도 모른다
 	
 ### prendre (à droita/ à gauche)
-
+	je 		prends
+	tu		prends
+	il		prend
+	nous	prenons
+	vous	prenez
+	ils		prennent
+	1.잡다,붙들다,쥐다,집어들다
+	2.잡다,붙잡다,체포하다/덮치다,기습하다
+	3.빼앗다,훔치다
+	4.공격하다/점령하다/차지하
+	
 ### trouver (se)
 ### tourner (à droite, à gauche)
 ### traverser
@@ -104,6 +114,6 @@
 - tout droit
 - voilà
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4MDk4MjI5LDgzMzk5NTA4MywxNjMzNz
-A3NzU0XX0=
+eyJoaXN0b3J5IjpbMTM0MzgzNTcxOCw4MzM5OTUwODMsMTYzMz
+cwNzc1NF19
 -->
