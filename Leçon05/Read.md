@@ -155,8 +155,16 @@ d. Tu tourn à droite. c'est là.
 
 ## Exercise 4
 Mettez à la forme négative.
-a. J'
+a. J'ai un plan 
+b. Vous êtes perdue
+c. Le BHV se trouve là
+
+## Exercise 5
+Répondez aux questions en utilisant la forme négative.
+a. Vous vivez seul(e) ?
+Non, je
+b. Il parle fran
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTc1MzcxLDgzMzk5NTA4MywxNjMzNz
+eyJoaXN0b3J5IjpbMzQzMDIyMDk2LDgzMzk5NTA4MywxNjMzNz
 A3NzU0XX0=
 -->
