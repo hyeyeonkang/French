@@ -174,8 +174,9 @@ d. Vous travaillez ?
 Le verbe <<prendre>> a plusieurs sens. Donnez un synonyme ou expliquez chaque phrase. Vous pouvez utiliser le dictionnaire.
 a. Vous prenez un café ?
 b. Vous prenez la première rue à droite.
-c. JE 
+c. Je prends un déjeuner rapide.
+d. Elle prend le bus á la sortie de l'école.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDE0OTg2LDgzMzk5NTA4MywxNjMzNz
-A3NzU0XX0=
+eyJoaXN0b3J5IjpbMTkyNjkyNjg2Miw4MzM5OTUwODMsMTYzMz
+cwNzc1NF19
 -->
