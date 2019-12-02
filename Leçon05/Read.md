@@ -8,7 +8,10 @@
 - Oh là là, vous êtes perdue. Ici, vous êtes sur la rive gauche et le BHV se trouve sur la rive droite.
 - Alors, qu'est-ce que je fais ?
 - Vous n'avez pas un plan ?
-- 
+- Si, voilà.
+
+2
+- Bien. Regardez. Nous sommes boulevard Saint-Germain, à l'angle du boulevard Saint-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODAxNzU0MSwxNjMzNzA3NzU0XX0=
+eyJoaXN0b3J5IjpbLTQyMDgzNDI4NywxNjMzNzA3NzU0XX0=
 -->
