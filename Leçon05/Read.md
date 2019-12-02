@@ -133,8 +133,16 @@
 
 ## Exercise 1
 Conjuguez le verbe qui convient pouvoir ou prendre.
+ a. Vous ... le bus.
+ b. Elle ...marcher.
+ c. Elle ne ... pas le métro.
+ d. Il .... aider Allyson.
 
+## Exercise 2
+Donnez aux trois personnes l'impératif de :
+a. Parler : ...
+n
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODgyOTU2OSw4MzM5OTUwODMsMTYzMz
-cwNzc1NF19
+eyJoaXN0b3J5IjpbLTIxMjQyNTk2OTgsODMzOTk1MDgzLDE2Mz
+M3MDc3NTRdfQ==
 -->
