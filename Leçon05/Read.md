@@ -11,7 +11,8 @@
 - Si, voilà.
 
 2
-- Bien. Regardez. Nous sommes boulevard Saint-Germain, à l'angle du boulevard Saint-
+- Bien. Regardez. Nous sommes boulevard Saint-Germain, à l'angle du boulevard Saint-Michel. Vous prenez le boulevard Saint-Michel jusqu'à la Seine.
+- Vous
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDgzNDI4NywxNjMzNzA3NzU0XX0=
+eyJoaXN0b3J5IjpbODMzOTk1MDgzLDE2MzM3MDc3NTRdfQ==
 -->
