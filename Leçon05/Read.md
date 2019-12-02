@@ -75,8 +75,16 @@
 	1.걷다 2.나아가다,전진하다,걸어가다 3.트래블링
 	
 ### pouvoir
-
+	je		peux,puis
+	tu 		peux
+	il 		peut
+	nous	pouvons
+	vous	pouvez
+	ils		peuvent
+	1.할 수 있다 2.해도 좋다 3.일 수 있다,일지도 모른다
+	
 ### prendre (à droita/ à gauche)
+
 ### trouver (se)
 ### tourner (à droite, à gauche)
 ### traverser
@@ -96,6 +104,6 @@
 - tout droit
 - voilà
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDI0ODM4ODgsODMzOTk1MDgzLDE2Mz
-M3MDc3NTRdfQ==
+eyJoaXN0b3J5IjpbODI4MDk4MjI5LDgzMzk5NTA4MywxNjMzNz
+A3NzU0XX0=
 -->
