@@ -170,8 +170,12 @@ Non, elle habite à Séoul.
 d. Vous travaillez ? 
 
 
-## 
+## Exercise 6
+Le verbe <<prendre>> a plusieurs sens. Donnez un synonyme ou expliquez chaque phrase. Vous pouvez utiliser le dictionnaire.
+a. Vous prenez un café ?
+b. Vous prenez la première rue à droite.
+c. JE 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODQ5OTY4NCw4MzM5OTUwODMsMTYzMz
-cwNzc1NF19
+eyJoaXN0b3J5IjpbLTkzMDE0OTg2LDgzMzk5NTA4MywxNjMzNz
+A3NzU0XX0=
 -->
