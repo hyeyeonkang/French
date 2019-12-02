@@ -131,8 +131,10 @@
 - tout droit
 - voilà
 
+## Exercise 1
+Conjuguez le verbe qui convient pouvoir ou prendre.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzE4OTg4NjYsODMzOTk1MDgzLDE2Mz
-M3MDc3NTRdfQ==
+eyJoaXN0b3J5IjpbMTE3ODgyOTU2OSw4MzM5OTUwODMsMTYzMz
+cwNzc1NF19
 -->
