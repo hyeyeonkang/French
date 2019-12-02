@@ -15,10 +15,15 @@
 - Vous prenez le boulevard Saint-Michel jusqu'à la Seine. Vous arrivez sur le pont Saint-Michel, vous traversez .
 - Vous continuez par le boulevard du Palais, toujours tout droit. Ensuite, prenez le Pont au Change et tournez à droite, quai de Gesvres.
 - C'est loin?
-- Ma
+- Mais non, ce n'est pas loin !
+- Il y a un bus direct ?
+- Non, je ne pense pas. Allez ! vous êtes jeune.
+- Vous pouvez marcher, c'est bon pour la santé.
+- Hum.. Et après le quai....
+- Marchez tout droit jusqu'à la place de l'
 - 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjEwOTk5Myw4MzM5OTUwODMsMTYzMz
-cwNzc1NF19
+eyJoaXN0b3J5IjpbMzAzMDU2NzI4LDgzMzk5NTA4MywxNjMzNz
+A3NzU0XX0=
 -->
