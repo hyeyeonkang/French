@@ -60,8 +60,17 @@
 - c'est + mot interrogatif
 - c'est + adverbe
 
-##
+## Mots invariables
+- après
+- loin
+- ne... pas
+- par
+- si
+- sur
+- toujours
+- tout droit
+- voilà
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDc4ODI5Myw4MzM5OTUwODMsMTYzMz
+eyJoaXN0b3J5IjpbLTY1MDYzNjMzNCw4MzM5OTUwODMsMTYzMz
 cwNzc1NF19
 -->
