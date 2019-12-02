@@ -55,6 +55,7 @@
 	vous 	arrivez
 	ils 	arrivent
 	1.도착하다, 오다 2.가까이 가다 3.이르다,도달하다
+	
 ### continuer
 	je		continue
 	tu		continues
@@ -63,8 +64,18 @@
 	vous	continuez
 	ils		continuent
 	1.계속하다 2.(말,행동 따위를) 계속하다 3.계속되다
+	
 ### marcher
+	je		marche
+	tu		marches
+	il		marche
+	nous	marchons
+	vous	marchez
+	ils		marchent
+	1.걷다 2.나아가다,전진하다,걸어가다 3.트래블링
+	
 ### pouvoir
+
 ### prendre (à droita/ à gauche)
 ### trouver (se)
 ### tourner (à droite, à gauche)
@@ -85,6 +96,6 @@
 - tout droit
 - voilà
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTA5MDYyOSw4MzM5OTUwODMsMTYzMz
-cwNzc1NF19
+eyJoaXN0b3J5IjpbLTIwMDI0ODM4ODgsODMzOTk1MDgzLDE2Mz
+M3MDc3NTRdfQ==
 -->
