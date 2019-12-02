@@ -48,7 +48,15 @@
 
 ## Verbs
 ### arriver
+	j'		arrive
+	tu 		arrives
+	il 		arrive
+	nous 	arrivons
+	vous 	arrivez
+	ils 	arrivent
+	1.도착하다, 오다 2.
 ### continuer
+
 ### marcher
 ### pouvoir
 ### prendre (à droita/ à gauche)
@@ -71,6 +79,6 @@
 - tout droit
 - voilà
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDYzNjMzNCw4MzM5OTUwODMsMTYzMz
-cwNzc1NF19
+eyJoaXN0b3J5IjpbNTQ5NTY0ODE1LDgzMzk5NTA4MywxNjMzNz
+A3NzU0XX0=
 -->
