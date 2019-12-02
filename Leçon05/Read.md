@@ -101,8 +101,18 @@
 	9.인출하다,징수하다
 	10.따오다,인용하다
 	11.지니다,휴대하다
-	12.책임을지다,맡다
+	12.(책임을)지다,맡다
+	13.입다,착용하다
+	
 ### trouver (se)
+	je trouve
+	tu trouves
+	il trouve
+	nous trouvons
+	vous trouvez
+	ils trouvent
+
+1.발견하다,찾아내다 2.구하다,얻다 3.발견하다
 ### tourner (à droite, à gauche)
 ### traverser
 
@@ -121,6 +131,6 @@
 - tout droit
 - voilà
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzEwNDUxOSw4MzM5OTUwODMsMTYzMz
-cwNzc1NF19
+eyJoaXN0b3J5IjpbMTM4Mzg5MzczLDgzMzk5NTA4MywxNjMzNz
+A3NzU0XX0=
 -->
