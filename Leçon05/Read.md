@@ -1,25 +1,10 @@
 
-# leçon 5 Tu vas au Luxembourg?
+# leçon 8 Pardon monsieur, le BHV s'il vous plaît ?
 
-## Écoutez
-### 1
-Max : Bonjour. Je cherche Noriko. Elle est là ?
-Zoé : Non. Elle est avec Tom.
-Max : Quoi !
-Zoé : Euh... oui. Els déjeunent à la cafetéria.
-Max : Ah bon !
+## écoutez
 
-### 2
-Lily : Salut Sami. Je vais au cinema. Tu viens avec moi?
-Sami : Non merci. Je vais au Luxembourg.
-Il y a l'expo de photos d'Arthus-Bertrand.
-Elle est gratuite aujourd'hui.
-Lily : Gratuite ! Je viens avec toi.
-
-### 3
-Sur le campus
-
-> Written with [StackEdit](https://stackedit.io/).
+1
+Pardon monsieur, ou
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzcwNzc1NF19
+eyJoaXN0b3J5IjpbLTcwMjk4NzczNywxNjMzNzA3NzU0XX0=
 -->
