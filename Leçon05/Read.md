@@ -93,8 +93,15 @@
 	1.잡다,붙들다,쥐다,집어들다
 	2.잡다,붙잡다,체포하다/덮치다,기습하다
 	3.빼앗다,훔치다
-	4.공격하다/점령하다/차지하
-	
+	4.공격하다/점령하다
+	5.(자리에)앉다,(공간을)차지하다
+	6.얻다,받다,가지다/입수하다,얻다,듣다
+	7.(방을)얻다/(물건을)사다
+	8.(값을)받다,요구하다
+	9.인출하다,징수하다
+	10.따오다,인용하다
+	11.지니다,휴대하다
+	12.책임을지다,맡다
 ### trouver (se)
 ### tourner (à droite, à gauche)
 ### traverser
@@ -114,6 +121,6 @@
 - tout droit
 - voilà
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzgzNTcxOCw4MzM5OTUwODMsMTYzMz
+eyJoaXN0b3J5IjpbMTMyNzEwNDUxOSw4MzM5OTUwODMsMTYzMz
 cwNzc1NF19
 -->
