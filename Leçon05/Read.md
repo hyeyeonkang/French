@@ -12,7 +12,8 @@
 
 2
 - Bien. Regardez. Nous sommes boulevard Saint-Germain, à l'angle du boulevard Saint-Michel. Vous prenez le boulevard Saint-Michel jusqu'à la Seine.
-- Vous
+- Vous prenez le boulevard Saint-Michel jusqu'à la Seine. Vous arrivez sur le pont Saint-Michel, vous traversez Vous continuez par le boule
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzOTk1MDgzLDE2MzM3MDc3NTRdfQ==
+eyJoaXN0b3J5IjpbLTIxMDEwMjAzNTYsODMzOTk1MDgzLDE2Mz
+M3MDc3NTRdfQ==
 -->
