@@ -141,8 +141,15 @@ Conjuguez le verbe qui convient pouvoir ou prendre.
 ## Exercise 2
 Donnez aux trois personnes l'impératif de :
 a. Parler : ...
-n
+b. Venir : ...
+c. Aller : ....
+d. Faire : 
+e Prendre : 
+
+## Exercise 3
+Choisissez e ou es.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQyNTk2OTgsODMzOTk1MDgzLDE2Mz
-M3MDc3NTRdfQ==
+eyJoaXN0b3J5IjpbLTEzODk0ODkzNyw4MzM5OTUwODMsMTYzMz
+cwNzc1NF19
 -->
